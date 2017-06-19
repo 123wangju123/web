@@ -1,0 +1,280 @@
+.header{
+	background-image:url(../images/banner3.jpg);
+	padding:0px;
+	background-size:1360px 500px;
+	background-repeat:no-repeat;
+	margin-left:-10px;
+	margin-top:-20px;
+	width:1360px;
+	height:500px;
+}
+.nav{
+	width:1360px;
+	height:100px;
+	background-color:grey;
+	opacity:0.7;
+}
+.logo{
+	background-image: url(../images/logo.png);
+	width:170px;
+	height:100px;
+	float:left;
+    margin-left:20px;
+    opacity:1;
+}
+.ul1{
+	float:left;
+}
+.ul li{
+	margin-top:30px;
+	float:left;
+	list-style-type:none;
+	margin-left:40px;
+}
+.ul li a{
+	text-decoration:none;
+	color:white;
+}
+.ul li a:hover{
+	color:#f9f603;
+}
+.sousuo{
+	width:500px;
+	height:50px;
+	clear:both;
+    position:relative;
+    left:450px;
+    top:180px;
+}
+.text{
+	width:400px;
+	height:40px;
+	opacity:0.5;
+}
+.span{
+	height:40px;
+	background-color: black;
+	color:white;
+}
+.sousuo span{
+	float:left;
+}
+.span input{
+	background-color: black;
+	color:white;
+	width:200px;
+	height:50px;
+}
+.wenzi{
+	margin-top:50px;
+	text-align:center;
+	color:grey;
+	font-size:40px;
+}
+.image{
+	width:80px;
+	height:30px;
+	display:block;
+	position:relative;
+	left:160px;
+	top:180px;
+	background-color:black;
+	color:white;
+	opacity:0.5;
+}
+
+.footer{
+	clear:both;
+	position:relative;
+	top:100px;
+	width:1360px;
+	height:100px;
+	color:white;
+	background-color:black;
+	text-align:center;
+	line-height:100px;
+}
+a{
+	text-decoration: none;
+	color:grey;
+}
+a:hover{
+	text-decoration:underline;
+}
+.bread{
+	margin-top:20px;
+	margin-left:170px;
+}
+.content{
+	width:1000px;
+    height:1000px;
+    margin:auto;
+}
+.big{
+    text-align:center;
+	display:block;
+	font-size:40px;
+	font-family:微软雅黑;
+    border-bottom:1px solid grey;
+}
+.little{
+	text-align:center;
+	display:block;
+		font-size:20px;
+		font-family:微软雅黑;
+}
+.p{
+	text-indent:2em;
+	line-height:40px;
+}
+.third{
+	color:grey;
+	font-family:黑体;
+	font-size:30px;
+}
+.img1{
+	background-image:url(../images/spring.jpg);
+	background-size:240px 240px;
+	width:240px;
+	height:240px;
+	float:left;
+	margin-top:20px;
+}
+.img2{
+	background-image:url(../images/summer.jpg);
+	background-size:240px 240px;
+	width:240px;
+	height:240px;
+	float:left;
+	margin-left:10px;
+	margin-top:20px;
+}
+.img3{
+	background-image:url(../images/autumn.jpg);
+	background-size:240px 240px;
+	width:240px;
+	height:240px;
+	float:left;
+	margin-left:10px;
+	margin-top:20px;
+}
+.img4{
+	background-image:url(../images/winter.jpg);
+	background-size:240px 240px;
+	width:240px;
+	height:240px;
+	float:left;
+	margin-top:20px;
+}
+.third{
+	border-bottom:1px solid grey;
+}
+.content{
+	margin-top:20px;
+}
+.image{
+	width:80px;
+	height:70px;
+	display:block;
+	position:relative;
+	left:160px;
+	top:160px;
+	background-color:black;
+	color:white;
+	opacity:0.5;
+}
+.remark{
+	position:relative;
+	left:160px;
+	top:20px;
+	clear:both;
+	border-top:1px solid grey;
+	width:1000px;
+}
+.remark ul li{
+    margin-top:10px;
+	color:grey;
+	list-style-type:none;
+}
+.form{
+
+	position:relative;
+	left:200px;
+	top:30px;
+}
+.header{
+	background-image:url(../images/banner1.png);
+	padding:0px;
+	background-size:1360px 500px;
+	background-repeat:no-repeat;
+	margin-left:-10px;
+	margin-top:-20px;
+	width:1360px;
+	height:500px;
+}
+.nav{
+	width:1360px;
+	height:100px;
+	background-color:grey;
+	opacity:0.7;
+}
+.logo{
+	background-image: url(../images/logo.png);
+	width:170px;
+	height:100px;
+	float:left;
+    margin-left:20px;
+}
+.ul1{
+	float:left;
+}
+.ul li{
+	margin-top:30px;
+	float:left;
+	list-style-type:none;
+	margin-left:40px;
+}
+.ul li a{
+	text-decoration:none;
+	color:white;
+}
+.ul li a:hover{
+	color:#f9f603;
+}
+.sousuo{
+	width:500px;
+	height:50px;
+	clear:both;
+    position:relative;
+    left:450px;
+    top:180px;
+}
+.text{
+	width:400px;
+	height:40px;
+	opacity:0.7;
+}
+.span{
+	height:40px;
+	background-color: black;
+	color:white;
+}
+.sousuo span{
+	float:left;
+}
+.span input{
+	background-color: black;
+	color:white;
+	width:200px;
+	height:50px;
+}
+.wenzi{
+	margin-top:50px;
+	text-align:center;
+	color:grey;
+	font-size:40px;
+}
+html{
+	width:100%;
+	overflow-x: hidden;
+}
